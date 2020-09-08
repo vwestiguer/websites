@@ -1,0 +1,2 @@
+
+(function(){var strings={};strings['Back to Album']='Voltar ao Álbum';strings['Download']='Transferir';strings['Previous']='Anterior';strings['Next']='Seguinte';strings['Play Slideshow']='Reproduzir Apresentação de Slides';RegisterWidgetStrings("com-apple-iweb-widget-detailview",strings);})();

@@ -1,0 +1,34 @@
+ <!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Obarraco Sustentavel</title>
+    <!-- Bootstrap -->
+	<link href="css/bootstrap-4.2.1.css" rel="stylesheet">
+	<link href="css/style.css" rel="stylesheet" type="text/css">
+	<link href="css/fontello.css" rel="stylesheet" type="text/css">
+	<link href="css/fontello-embedded.css" rel="stylesheet" type="text/css">
+  </head>
+  <body>
+  
+	  <header>
+	    <div class="conteudo"> 
+		  	<h1>Obarraco Sustentavel</h1>
+			<input id="menu-bar" type="checkbox">
+		  	<label class="icon-menu" for="icon-menu"></label>
+			<nav class="menu">
+				<a href="">Inicio</a>
+				<a href="">Menu</a>
+				<a href="">Menu</a>
+				<a href="">Menu</a>
+			</nav>
+		  </div>
+      </header>
+  <meta name="Obarraco Sustentável" content="Página oficial do espaço cultural OBarraco Sustentavel">
+<meta name="keywords" content="Música ao vivo, Pizza, Sustentabilidade, Gastronomia, cultura, Choro, Jazz, Jam Seesion, Clube de Jazz, Música brasileira, Pizzaria, Búzios, Comida local, Frutos do Mar, Drinks, drinks tropicais, "><meta name="keywords" content="">
+  <script src="js/jquery-3.3.1.min.js"></script>
+	<script src="js/popper.min.js"></script> 
+	<script src="js/bootstrap-4.2.1.js"></script>
+  </body>

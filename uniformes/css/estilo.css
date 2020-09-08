@@ -1,0 +1,55 @@
+body h1 {
+	font-family: artifika;
+	font-style: normal;
+	font-weight: 400;
+	font-size: xx-large;
+	text-shadow: 0px 0px;
+	text-transform: none;
+	-webkit-box-shadow: 0 0;
+	box-shadow: 0 0;
+}
+#esquerda li {
+}
+#esquerda p {
+	font-family: poiret-one;
+	font-style: normal;
+	font-weight: 400;
+}
+
+
+#esquerda{
+	color: #E41D20;
+	float: left;
+	width: 850px;
+	margin-right:50px;
+	margin-left:30px;
+	text-align:left;
+}
+#esquerda li{
+	color: #1AAD40
+}
+#direita{
+	float: right;
+	margin-right:50px;
+	margin-left:30px;
+}
+#sessoes{
+	width: 501px;
+	margin-top: 200px;
+	margin-left: 30px;
+	text-align: left;
+}
+.areasessao h1{
+	color: #E8E753;
+	text-align: left;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif
+}
+.areasessao a {
+	color:#8D05F8
+}
+
+@media (min-width:1px) and (max-width:480px){
+}
+
+@media (min-width:360px) and (max-width:800px){
+}
